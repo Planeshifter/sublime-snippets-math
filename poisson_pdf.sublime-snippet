@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\frac{\lambda^${1:x} e^{-\lambda}}{${1:x}!}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dpois</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>Poisson Density</description>
+</snippet>

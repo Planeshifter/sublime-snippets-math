@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\prod_{${1:i=1}}^{${2:n}}
+]]></content>
+	<tabTrigger>prod</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>Product</description>
+</snippet>

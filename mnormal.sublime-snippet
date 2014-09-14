@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\operatorname{MVN} \left( ${1:\mu}, ${2:\Sigma} \right)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mnormal</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>Multivariate Normal</description>
+</snippet>

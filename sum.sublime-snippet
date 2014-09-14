@@ -1,0 +1,8 @@
+<snippet>
+        <content><![CDATA[
+\sum_{${1:i=1}}^{${2:n}}
+]]></content>
+        <tabTrigger>sum</tabTrigger>
+        <scope>text.tex.latex</scope>
+        <description>Sum</description>
+</snippet>

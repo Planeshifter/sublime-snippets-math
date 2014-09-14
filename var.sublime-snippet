@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\operatorname{Var} \left( ${1:X} \right)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>var</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>Variance</description>
+</snippet>

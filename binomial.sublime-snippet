@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\operatorname{Binomial} \left( ${1:n}, ${2:p} \right)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>binomial</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>Binomial</description>
+</snippet>
