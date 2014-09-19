@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+1_{\left\{ ${1} \right\}}
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>ind</tabTrigger>
+<scope>text.tex.latex</scope>
+<description>Indicator Function</description>
+</snippet>
