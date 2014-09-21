@@ -1,5 +1,4 @@
 import sublime, sublime_plugin
-import unicodedata
 
 class GreekSubstitution(sublime_plugin.TextCommand):
     greek_map = {}
