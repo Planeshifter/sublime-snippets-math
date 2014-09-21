@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\lim_{${1:x} \to {2:\infty}}
+]]></content>
+<tabTrigger>lim</tabTrigger>
+<scope>text.tex.latex</scope>
+<description>Limit</description>
+</snippet>
