@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-p(x) = \frac{\lambda^x e^{-\lambda}}{x!}
+\frac{1}{n-1} \sum_{i=1}^n \left( ${1:X}_i - \bar ${1:X} \right)^2
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>dpois</tabTrigger>
+	<tabTrigger>sd</tabTrigger>
 	<scope>text.tex.latex</scope>
-	<description>Poisson Density</description>
+	<description>Sample standard deviation</description>
 </snippet>
