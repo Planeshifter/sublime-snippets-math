@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+g"],
+	  "command" : "greek_substitution"
+	}
+]

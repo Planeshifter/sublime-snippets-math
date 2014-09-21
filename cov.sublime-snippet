@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+\operatorname{Cov} \left( ${1:X}, ${2:Y} \right)
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>cov</tabTrigger>
+<scope>text.tex.latex</scope>
+<description>Covariance</description>
+</snippet>
