@@ -3,6 +3,6 @@
 ${1:X}_1, \ldots,  ${1:X}_${2:n}
 ]]></content>
         <tabTrigger>sample</tabTrigger>
-        <scope>text.tex.latex</scope>
+        <scope>text.tex.latex, text.html.markdown</scope>
         <description>Random Sample</description>
 </snippet>

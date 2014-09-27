@@ -3,6 +3,6 @@
 \prod_{${1:i=1}}^{${2:n}}
 ]]></content>
 	<tabTrigger>prod</tabTrigger>
-	<scope>text.tex.latex</scope>
+  <scope>text.tex.latex, text.html.markdown</scope>
 	<description>Product</description>
 </snippet>

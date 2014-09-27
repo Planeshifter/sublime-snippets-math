@@ -3,6 +3,6 @@
 \lim_{${1:x} \to {2:\infty}}
 ]]></content>
 <tabTrigger>lim</tabTrigger>
-<scope>text.tex.latex</scope>
+<scope>text.tex.latex, text.html.markdown</scope>
 <description>Limit</description>
 </snippet>

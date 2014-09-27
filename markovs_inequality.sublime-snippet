@@ -3,6 +3,6 @@
 P \left( ${1:X} \ge \alpha \right) \le \frac{\mathbb{E}[${2:X}]}{\alpha}
 ]]></content>
 <tabTrigger>ineqMarkov</tabTrigger>
-<scope>text.tex.latex</scope>
+<scope>text.tex.latex, text.html.markdown</scope>
 <description>Markov's Inequality</description>
 </snippet>

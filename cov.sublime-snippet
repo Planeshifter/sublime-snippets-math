@@ -4,6 +4,6 @@
 ]]></content>
 <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 <tabTrigger>cov</tabTrigger>
-<scope>text.tex.latex</scope>
+<scope>text.tex.latex, text.html.markdown</scope>
 <description>Covariance</description>
 </snippet>
