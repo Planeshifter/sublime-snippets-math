@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[ \frac{1}{ \Gamma \left( ${1:\alpha} \right) ${2:\gamma}^${1:\alpha}} ${3:x}^{${1:\alpha}-1} \exp \left( - ${3:x}/${2:\gamma} \right)  \mathbbm{1}_{\left( 0, \infty \right)}(${3:x})
+]]></content>
+<tabTrigger>dgamma</tabTrigger>
+<scope>text.tex.latex, text.html.markdown</scope>
+<description>Gamma density</description>
+</snippet>
+
+
+
+
+
+

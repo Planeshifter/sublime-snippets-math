@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[ \frac{1}{${2:\beta}} \exp \left(- \frac{1}{${2:\beta}}(${3:x} - ${1:\alpha}} \right)  \mathbbm{1}_{\left( ${1:\alpha}, \infty \right)}(${3:x})
+]]></content>
+<tabTrigger>dsexp</tabTrigger>
+<scope>text.tex.latex, text.html.markdown</scope>
+<description>Shifted Exponential  density</description>
+</snippet>
+
+
+
+
+
+
+

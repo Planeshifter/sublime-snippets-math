@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+f_Y(y) = \left| \frac{d}{dy} (g^{-1}(y)) \right| \cdot f_X(g^{-1}(y))
+]]></content>
+<tabTrigger>changeFormulaPDF</tabTrigger>
+<scope>text.tex.latex, text.html.markdown</scope>
+<description>PDF Change of Variables</description>
+</snippet>
+
+   

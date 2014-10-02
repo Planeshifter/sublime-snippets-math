@@ -1,9 +1,0 @@
-<snippet>
-<content><![CDATA[
- {n \choose ${1:x}} p^${1:x} \left( 1 - p \right)^{n-${1:x}} 
-]]></content>
-<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-<tabTrigger>dbinom</tabTrigger>
-<scope>text.tex.latex, text.html.markdown</scope>
-<description>Binomial PMF</description>
-</snippet>

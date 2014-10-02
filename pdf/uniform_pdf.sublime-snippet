@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[ \frac{1}{${2:b} - ${1:a}} \mathbbm{1}_{\left\\{ ${1:a},${2:b} \right\\}} \left( ${3:x} \right)
+]]></content>
+<tabTrigger>dunif</tabTrigger>
+<scope>text.tex.latex, text.html.markdown</scope>
+<description>Beta density</description>
+</snippet>
+
+
+
+
+
+
+

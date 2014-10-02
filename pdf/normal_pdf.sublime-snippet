@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[ \frac{1}{\sqrt{2\pi}${2:\sigma}} \exp \left(- \frac{\left(${3:x} - ${1:\mu} \right)^2}{2${2:\sigma}^2} \right)
+]]></content>
+<tabTrigger>dnorm</tabTrigger>
+<scope>text.tex.latex, text.html.markdown</scope>
+<description>Normal density</description>
+</snippet>
+
+
