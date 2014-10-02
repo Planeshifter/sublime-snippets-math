@@ -1,9 +1,9 @@
 <snippet>
 <content><![CDATA[
- \mathbbm{1}_{\left\\{ ${1} \right\\}}
+{${1:n} \choose ${3:x}} ${2:p}^${3:x} \left( 1 - ${2:p} \right)^{${1:n}-${3:x}}
 ]]></content>
 <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-<tabTrigger>ind</tabTrigger>
+<tabTrigger>dbinom</tabTrigger>
 <scope>text.tex.latex, text.html.markdown</scope>
-<description>Indicator Function</description>
+<description>Binomial PMF</description>
 </snippet>

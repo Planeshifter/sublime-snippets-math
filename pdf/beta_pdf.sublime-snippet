@@ -1,0 +1,11 @@
+  GNU nano 2.2.6        File: binomial_pdf.sublime-snippet                      
+
+<snippet>
+<content><![CDATA[ \frac{\Gamma(${1:\alpha} + ${2:\beta})} { \Gamma(${1:\alpha}) \Gamma(${2:\beta})} ${3:x}^{${1:\alpha}-1} \left( 1 - ${3:x} \right)^{${2:\beta} -1} 
+]]></content>
+<tabTrigger>dbeta</tabTrigger>
+<scope>text.tex.latex, text.html.markdown</scope>
+<description>Beta density</description>
+</snippet>
+
+
