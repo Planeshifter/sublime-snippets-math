@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\Gamma \left( ${1:\alpha}, ${2:\beta} \right)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>rgamma</tabTrigger>
+  <scope>text.tex.latex, text.html.markdown</scope>
+	<description>Gamma</description>
+</snippet>

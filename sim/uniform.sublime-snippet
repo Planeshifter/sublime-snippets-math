@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\operatorname{Unif} \left( ${1:0}, ${2:1} \right)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>runif</tabTrigger>
+  <scope>text.tex.latex, text.html.markdown</scope>
+	<description>Uniform</description>
+</snippet>

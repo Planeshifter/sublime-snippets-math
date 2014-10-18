@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\operatorname{Normal} \left( ${1:\mu}, ${2:\sigma^2} \right)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>rnorm</tabTrigger>
+  <scope>text.tex.latex, text.html.markdown</scope>
+	<description>Normal</description>
+</snippet>

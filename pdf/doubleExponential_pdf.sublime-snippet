@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+\frac{1}{2 ${2:\theta}} \exp \left( - \left| ${3:x} - ${1:\mu} \right| / ${2:\theta} \right)
+]]></content>
+<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>ddexp</tabTrigger>
+<scope>text.tex.latex, text.html.markdown</scope>
+<description>Double Exponential Density</description>
+</snippet>
+
